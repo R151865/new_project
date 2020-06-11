@@ -1,0 +1,7 @@
+class Car:
+      three=('this','this','this')
+      def __init__(self):
+            self.color="blue"
+            self.w=100
+            self.h=0
+      
